@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867518045410",
+    "firebase_url": "https://salonpikassobybraintwopoint0.firebaseio.com",
+    "project_id": "salonpikassobybraintwopoint0",
+    "storage_bucket": "salonpikassobybraintwopoint0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867518045410:android:6692f9509ee091eec812bb",
+        "android_client_info": {
+          "package_name": "com.braintwopoint0.salon_pikasso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867518045410-9v02if1p8j17vfacste59rasv7gtieta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjyn5Rzet2YNubkUZdpcg_kIpa6pdXvPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867518045410-9v02if1p8j17vfacste59rasv7gtieta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
